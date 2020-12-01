@@ -1,4 +1,4 @@
-## Shiny App to visualiza Great Britain Stations Usage (estimates)
+## Shiny App to visualize Great Britain Stations Usage (estimates)
 
 
 
