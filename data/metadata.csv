@@ -1,0 +1,25 @@
+table,Name,Description
+stations,NLC,National Location Code
+stations,TLC,Three Letter Code; sourced from National Rail
+stations,name,Name of Station
+stations,x_lon,The longitude of the station (WGS84)
+stations,y_lat,The latitude of the station (WGS84)
+stations,Easting,"The Easting reference for the station, using the Ordnance Survey (OS) grid. Sourced from NAPTAN (2016)."
+stations,Northing,"The Northing reference for the station, using the Ordnance Survey (OS) grid. Sourced from NAPTAN (2016)."
+stations,facility_owner,The company that owns the station (as of last year)
+stations,PTE_urban_area,The station is within a urban area covered by PTE services
+stations,is_london_travelcard,The station is within a urban area covered by TfL services
+stations,NRR,High level Network Rail route associated with the station
+stations,SRS,Strategic Route Section code associated with the station
+stations,SRSn,Strategic Route Section name associated with the station
+stations,is_request_stop,Indicates if the stations is only on request
+dataset,xxxx_Full,Estimated count of E&E using a full price ticket
+dataset,xxxx_Reduced,Estimated count of E&E using a reduced price ticket
+dataset,xxxx_Season,Estimated count of E&E using a season ticket
+dataset,xxxx_Total,Estimated Total E&E made at the station
+dataset,xxxx_Changes,Estimated total number of interchanges made at the station
+stations,xxxx_var,Percentage change in Total E&E between xxxx and the previous year
+stations,xxxx_avg_var,Average Percentage change in Total E&E over the period between xxxx and the previous five years
+stations,xxxx_had_large_var,Indicates if the station has had a change in Total E&E of more than |10|%/|25|% for large/small stations
+stations,xxxx_rank,Rank of the Total E&E
+stations,xxxx_size,"Indicates if the station is Small (<10K Total E&E, as of last recorded year), Medium (btw 10K and K) or Large (>K)"
