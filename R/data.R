@@ -37,7 +37,7 @@ NULL
 #' \describe{
 #'   \item{NLC}{National Location Code}
 #'   \item{year}{Financial year}
-#'   \item{metric}{One in: `Full`, `Reduced`, `Season`, `Changes`, `Total`, `Rank`, `VarYoY`}
+#'   \item{metric}{One in: `Total`, `Full`, `Reduced`, `Season`, `Rank`, `VarYoY`, `Changes`}
 #'   \item{value}{The value for the Metric}
 #' }
 #'

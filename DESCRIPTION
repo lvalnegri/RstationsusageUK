@@ -16,12 +16,14 @@ Imports:
 Suggests:
     knitr,
     Rfuns,
+    RpostcodesUK,
     rmarkdown,
     sf
 Remotes:
-    lvalnegri/Rfuns
+    lvalnegri/Rfuns,
+    lvalnegri/RpostcodesUK
 LazyData: true
-LazyDataCompression:gzip
+LazyDataCompression: gzip
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
 VignetteBuilder: knitr
