@@ -1,4 +1,4 @@
-## Great Britain Rail Stations Usage (data and shiny app)
+## Great Britain Rail Stations Usage
 
 An $R$ package cotaining the annual estimates (by financial year since 1997/98) of the number of *Entries/Exits* (*Totals* plus *Full*/*Reduced*/*Season* tickets), and *Interchanges* at each Station in Great Britain.
 
@@ -14,6 +14,7 @@ The package includes the following tables:
 
 All the above datasets are also provided in `csv` format in the `data-raw/csv` folder.
 
+This is an early version containing only data. 
 
 ### Attributions
  - [ORR Office of Rail And Road, Estimates of station usage
