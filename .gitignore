@@ -27,3 +27,5 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 uk_stations_usage.Rproj
+.Rbuildignore
+RstationsusageUK.Rproj
